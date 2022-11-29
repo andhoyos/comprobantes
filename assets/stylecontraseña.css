@@ -1,0 +1,20 @@
+div.error {
+    padding: 10px;
+    border-style: solid;
+    border-width: 1px;
+    border-color: grey;
+    border-left-style: solid;
+    border-left-width: 4px;
+    border-left-color: red;
+    background-color: #fff;
+}
+div.success {
+    padding: 10px;
+    border-style: solid;
+    border-width: 1px;
+    border-color: grey;
+    border-left-style: solid;
+    border-left-width: 4px;
+    border-left-color: green;
+    background-color: #fff;
+}
